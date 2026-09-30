@@ -1,0 +1,6 @@
+{
+  "name": "Soba Bamako - Gestion Immobilière",
+  "description": "Plateforme professionnelle de gestion immobilière pour les agences de Bamako : suivi des loyers FCFA, quittances, baux, propriétaires, maintenance et relances WhatsApp en un clic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
